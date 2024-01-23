@@ -1,1 +1,1 @@
-# dummy-pkg-for-tests-with-deps
+# dummy-pkg-for-tests
